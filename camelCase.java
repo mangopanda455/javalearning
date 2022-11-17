@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class camelCase {
   public static void main(String[] args) {
     //write a program that camel cases any string
     String str = "hello world";
