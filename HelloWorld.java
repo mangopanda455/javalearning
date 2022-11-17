@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
-    //write a program that camel cases a string
+    //write a program that camel cases any string
     String str = "hello world";
     String[] words = str.split(" ");
     String camelCase = "";
